@@ -1,5 +1,5 @@
 homepage: "https://www.we-are-adot.com"
 documentation: "https://github.com/adotmob/gtm-adot-campaign"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: b1badc3042a6eb14a6f3f4be826529ad50ce8114
     changeNotes: Initial release.
