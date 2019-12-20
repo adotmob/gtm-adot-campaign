@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Adot Campaign Pixel",
-  "categories": ["CONVERSIONS", "ADVERTISING", "ATTRIBUTION],
+  "categories": ["CONVERSIONS", "ADVERTISING", "ATTRIBUTION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Adot",
